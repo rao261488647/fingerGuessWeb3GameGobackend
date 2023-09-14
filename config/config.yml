@@ -1,0 +1,11 @@
+DataBase:
+  DbType: mysql
+  DbName: fingerGame
+  Host: 127.0.0.01:3306
+  Username: root
+  Pwd: savour123
+  Charset: utf8
+  ParseTime: true
+
+BlockChain:
+  RpcUrl: https://goerli.infura.io/v3/
